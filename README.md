@@ -2,11 +2,10 @@
 This is the PHP (with MySQL) script to act as the "engine" for all games that are happening around the Cogito.org Community. At completion, it should be able to record and show the score of each member, and be used to carry out games that can only normally be done through PM within the forum.
 
 ### License
-The Cogito.org Game Engine is expected to be licensed under GNU General Public License v3, with the complete license file at LICENSE.md. With consensus with the developers of the application, alternative licenses can be used.
+The Cogito.org Game Engine is expected to be licensed under GNU General Public License v3, with the complete license file at LICENSE.md. With consensus with the developers of the application, alternative licenses **can be used**.
 
 ### Contributors
-@andrewxy
-> Your name would be added immediately after you joined out team over at Cogito.org forum
+andrewxy
 
 ### Copyright
 Copyright &copy; 2013 Cogito.org & contributors.
@@ -28,4 +27,9 @@ Please make sure you include the following comments in every file you created:
 > You should have received a copy of the GNU General Public License
 > along with this program.  If not, see {http://www.gnu.org/licenses/}.
 
-Please also make sure you follow the general PHP coding guidelines.
+**PHP Coding Standards** - http://make.wordpress.org/core/handbook/coding-standards/php/
+**HTML Coding Standards** - http://make.wordpress.org/core/handbook/coding-standards/html/
+**CSS Coding Standards** - http://make.wordpress.org/core/handbook/coding-standards/css/
+**JavaScript Coding Standards** - http://make.wordpress.org/core/handbook/coding-standards/javascript/
+
+Following the above coding standards are **not** compulsory, but is highly recommended for the sake of easier development.
