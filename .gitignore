@@ -1,0 +1,18 @@
+# Usual files from Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Usual files from Window
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Usual files from Linux
+!.gitignore
+*~
