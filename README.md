@@ -1,22 +1,17 @@
-# Cogito.org Game Engine
-=====
+#@ Cogito.org Game Engine
 This is the PHP (with MySQL) script to act as the "engine" for all games that are happening around the Cogito.org Community. At completion, it should be able to record and show the score of each member, and be used to carry out games that can only normally be done through PM within the forum.
 
-## License
------
+### License
 The Cogito.org Game Engine is expected to be licensed under GNU General Public License v3, with the complete license file at LICENSE.md. With consensus with the developers of the application, alternative licenses can be used.
 
-## Contributors
------
+### Contributors
 @andrewxy
 > Your name would be added immediately after you joined out team over at Cogito.org forum
 
-## Copyright
------
+### Copyright
 Copyright &copy; 2013 Cogito.org & contributors.
 
-## Guidelines
------
+### Guidelines
 Please make sure you include the following comments in every file you created:
 > Copyright (C) 2013 Cogito.org & contributors.
 >
