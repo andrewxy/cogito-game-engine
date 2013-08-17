@@ -1,4 +1,4 @@
-#@ Cogito.org Game Engine
+## Cogito.org Game Engine
 This is the PHP (with MySQL) script to act as the "engine" for all games that are happening around the Cogito.org Community. At completion, it should be able to record and show the score of each member, and be used to carry out games that can only normally be done through PM within the forum.
 
 ### License
