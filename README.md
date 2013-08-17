@@ -5,7 +5,7 @@ This is the PHP (with MySQL) script to act as the "engine" for all games that ar
 The Cogito.org Game Engine is expected to be licensed under GNU General Public License v3, with the complete license file at LICENSE.md. With consensus with the developers of the application, alternative licenses **can be used**.
 
 ### Contributors
-andrewxy
+andrewxy (http://cogitocommunity.cty.jhu.edu/index.php?/user/5497-andrewy/)
 
 ### Copyright
 Copyright &copy; 2013 Cogito.org & contributors.
@@ -27,9 +27,13 @@ Please make sure you include the following comments in every file you created:
 > You should have received a copy of the GNU General Public License
 > along with this program.  If not, see {http://www.gnu.org/licenses/}.
 
-**PHP Coding Standards** - http://make.wordpress.org/core/handbook/coding-standards/php/
-**HTML Coding Standards** - http://make.wordpress.org/core/handbook/coding-standards/html/
-**CSS Coding Standards** - http://make.wordpress.org/core/handbook/coding-standards/css/
-**JavaScript Coding Standards** - http://make.wordpress.org/core/handbook/coding-standards/javascript/
+##### PHP Coding Standards
+http://make.wordpress.org/core/handbook/coding-standards/php/
+##### HTML Coding Standards
+http://make.wordpress.org/core/handbook/coding-standards/html/
+##### CSS Coding Standards
+http://make.wordpress.org/core/handbook/coding-standards/css/
+##### JavaScript Coding Standards
+http://make.wordpress.org/core/handbook/coding-standards/javascript/
 
 Following the above coding standards are **not** compulsory, but is highly recommended for the sake of easier development.
